@@ -1,0 +1,1 @@
+# plugin-trial-license-key
